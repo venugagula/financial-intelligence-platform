@@ -18,5 +18,8 @@ Enterprise-grade platform built to monitor key financial health metrics across l
 - Revenue forecasting
 - Metric anomaly detection
 
+## Architecture
+![image](https://github.com/user-attachments/assets/56950722-8d6d-4487-8846-7bb7a9513e44)
+
 ## Author
 Venugopal Reddy Gangula
